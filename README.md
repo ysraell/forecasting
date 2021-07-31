@@ -1,6 +1,8 @@
 # [LAB Python] Forecasting: Principles and Practice
-
 [![Python 3.8](https://img.shields.io/badge/Python-3.8-gree.svg)](https://www.python.org/downloads/release/python-380/)
+
+`“If we could first know where we are and whither we are tending, we could better judge what to do and how to do it.”`
+*Abraham Lincoln*
 
 Exercises and others experiments in Python using the e-book [*Forecasting: Principles and Practice* (Rob J Hyndman and George Athanasopoulos)](https://otexts.com/fpp3/). 
 
